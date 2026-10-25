@@ -1,33 +1,37 @@
-Photo credits (Australian sources only; illustrative stock — not local Blacktown / Mt Druitt jobs):
+Photo credits (illustrative stock — not local Blacktown / Mt Druitt jobs).
+Found via Google/Bing Image search with Creative Commons / usage-rights filters where possible.
 
-1. suburban-house.jpg
-   "(1) Federation Revival house Gordon Street Blacktown"
-   Author: Sardaka — Licence: CC BY 3.0
-   Location: Gordon Street, Blacktown, New South Wales, Australia
-   https://commons.wikimedia.org/wiki/File:(1)Federation_Revival_house_Gordon_Street_Blacktown.jpg
+1. suburban-house.jpg (hero)
+   Query: "terracotta roof Sydney suburb" / "Federation house terracotta roof Sydney"
+   "'Vallambrosa' 19 Appian Way Burwood NSW"
+   Author: Ruwoltj — Licence: CC BY-SA 3.0
+   Location: Appian Way, Burwood, Sydney, New South Wales, Australia
+   https://commons.wikimedia.org/wiki/File:%27Vallambrosa%27_19_Appian_Way_Burwood_NSW.jpg
 
 2. roof-cleaning-before-after.jpg
-   "(1) Federation house Grafton Street" (Blacktown)
-   Author: Sardaka — Licence: CC BY 3.0
-   Location: Grafton Street, Blacktown, New South Wales, Australia
-   https://commons.wikimedia.org/wiki/File:(1)Federation_house_Grafton_Street.jpg
+   Query: "terracotta roof Blacktown" / "Federation bungalow Sydney roof"
+   "(1) Federation Bungalow Auburn-1" — weathered terracotta tiles
+   Author: Sardaka — Licence: CC BY-SA 3.0
+   Location: Station St, Auburn, Sydney, New South Wales, Australia
+   https://commons.wikimedia.org/wiki/File:(1)Federation_Bungalow_Auburn-1.jpg
 
 3. roof-restoration-work.jpg
-   "(1) house Balmoral Street Blacktown"
-   Author: Sardaka — Licence: CC BY 3.0
-   Location: Balmoral Street, Blacktown, New South Wales, Australia
-   https://commons.wikimedia.org/wiki/File:(1)house_Balmoral_Street_Blacktown.jpg
-
-4. terracotta-tiles.jpg
-   Crop from "(1) Chatswood bungalow" (terracotta tile roof close-up)
+   Query: "terracotta tile roof Sydney suburb"
+   "(1) Chatswood bungalow"
    Author: Sardaka — Licence: CC BY-SA 4.0
    Location: Chatswood, Sydney, New South Wales, Australia
    https://commons.wikimedia.org/wiki/File:(1)Chatswood_bungalow.jpg
 
+4. terracotta-tiles.jpg
+   Query: "terracotta tile roof Sydney suburb" (crop of Chatswood bungalow roof)
+   Author: Sardaka — Licence: CC BY-SA 4.0
+   https://commons.wikimedia.org/wiki/File:(1)Chatswood_bungalow.jpg
+
 5. low-pressure-roof-wash.jpg
-   "(1) house Gordon Street Blacktown"
-   Author: Sardaka — Licence: CC BY 3.0
-   Location: Gordon Street, Blacktown, New South Wales, Australia
-   https://commons.wikimedia.org/wiki/File:(1)house_Gordon_Street_Blacktown.jpg
+   Query: "suburban house Blacktown NSW"
+   "Housing estate in blacktown"
+   Author: Public domain (CC0)
+   Location: Blacktown, New South Wales, Australia
+   https://commons.wikimedia.org/wiki/File:Housing_estate_in_blacktown.jpg
 
 These are illustrative only — not photos of completed Blacktown / Mt Druitt jobs.
